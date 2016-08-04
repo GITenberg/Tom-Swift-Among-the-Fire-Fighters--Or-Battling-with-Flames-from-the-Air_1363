@@ -1,0 +1,27 @@
+_repo: Tom-Swift-Among-the-Fire-Fighters--Or-Battling-with-Flames-from-the-Air_1363
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Appleton, Victor
+    gutenberg_agent_id: '267'
+    url: http://www.gutenberg.org/2009/agents/267
+    wikipedia: http://en.wikipedia.org/wiki/Victor_Appleton
+description: ''
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '1998-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1363'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Swift, Tom (Fictitious character) -- Juvenile fiction'
+- !lcsh 'Fire fighters -- Juvenile fiction'
+- !lcsh 'Fire extinction -- Juvenile fiction'
+- !lcsh 'Adventure and adventurers -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: Tom Swift Among the Fire Fighters; Or, Battling with Flames from the Air
+url: http://www.gutenberg.org/ebooks/1363
